@@ -11,3 +11,8 @@ tmp
 UHO*
 *.bat
 .idea
+build/*
+
+# exceptions
+!CMakeLists.txt
+!CMakePresets.json
